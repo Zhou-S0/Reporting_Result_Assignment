@@ -1,0 +1,3 @@
+decrease no_change increase
+control 38 340 40
+drug 10 20 70
